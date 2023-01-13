@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👀 I’m interested in Machine Learning, NLP, Game Development and Software Development.
+👀 I’m interested in Machine Learning, Game Development and Software Development.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DamithDilhan&count_private=true&theme=blue-green&show_icons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DamithDilhan&layout=compact&theme=blue-green)]()
